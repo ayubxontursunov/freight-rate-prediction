@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments (DO NOT COMMIT!)
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Editor / IDE configuration
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Matplotlib cache
+.matplotlib/
+
+# Temporary / Scratch files
+*.log
+/tmp/
